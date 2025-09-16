@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224240112
+# Name: Pavithra K
+# Date: 16/09/2025
 
 
 # AIM:
@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1204" height="895" alt="image" src="https://github.com/user-attachments/assets/1f9c1408-f7ab-48e9-9bd1-5280975bb0ed" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1216" height="891" alt="image" src="https://github.com/user-attachments/assets/d6f97aab-1f2f-4746-a128-007337167ec8" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -66,6 +68,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1233" height="891" alt="image" src="https://github.com/user-attachments/assets/17fed061-ebcf-4a26-ac9d-409489332f4b" />
 
 
 
@@ -78,6 +81,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1166" height="891" alt="image" src="https://github.com/user-attachments/assets/0aee4508-c9ee-43a3-80ec-57cfbc6a3ab7" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1202" height="887" alt="image" src="https://github.com/user-attachments/assets/f82d1f5a-6f0e-4783-8e93-c445e623f0a3" />
 
 
 
@@ -118,6 +123,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+<img width="1000" height="715" alt="image" src="https://github.com/user-attachments/assets/11894cc5-c337-4ac8-bfd4-88c199b5365e" />
 
 
 
